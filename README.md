@@ -13,6 +13,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=diegopereyrasilvetti&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/diegopereyrasilvetti)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=diegopereyrasilvetti&theme=material-palenight)](https://github.com/diegopereyrasilvetti)
 </div>
-
- <a href="https://www.linkedin.com/in/diego-pereyra-ab3095243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-
