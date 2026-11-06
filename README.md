@@ -1,11 +1,9 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
 <h3 align="center">
   Hi, I'm Diego Pereyra 👋 
 </h3>
-
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;"></h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>
