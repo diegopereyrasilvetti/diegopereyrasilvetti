@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!--
-**diegopereyrasilvetti/diegopereyrasilvetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Hi, I'm Diego Pereyra 👋 
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>
+
+[![](https://github-readme-stats.vercel.app/api?username=diegopereyrasilvetti&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/diegopereyrasilvetti)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=diegopereyrasilvetti&theme=material-palenight)](https://github.com/diegopereyrasilvetti)
+</div>
+
+ <a href="https://www.linkedin.com/in/diego-pereyra-ab3095243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+
