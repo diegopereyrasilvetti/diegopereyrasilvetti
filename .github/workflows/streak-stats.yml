@@ -1,0 +1,32 @@
+
+name: Actualizar Current Streak
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar Current Streak
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=diegopereyrasilvetti&theme=tokyonight&timezone=America/Argentina/Buenos_Aires&date_format=d/m/Y
+          path: profile/streak.svg
+
+      - name: Guardar estadisticas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar Current Streak"
+            git push
+          fi
