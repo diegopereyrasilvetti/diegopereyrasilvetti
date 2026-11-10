@@ -5,6 +5,6 @@
 <h2 align="center" style="margin: 5px 10px;"></h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>
 <div>
 
-<img class="align-center" src="https://streak-stats.demolab.com/?user=diegopereyrasilvetti&theme=tokyonight&timezone=America/Argentina/Buenos_Aires&date_format=d/m/Y&v=20261109" alt="mystreak"/>
+<img class="align-center" src="./profile/streak.svg" alt="Current Streak"/>
 
 </div>
