@@ -8,5 +8,3 @@
 <img class="align-center" src="./profile/streak.svg" alt="Current Streak"/>
 
 </div>
-
-<h3>22</h3>
